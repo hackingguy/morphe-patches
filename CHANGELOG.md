@@ -1,3 +1,9 @@
+## [1.6.15-dev.1](https://github.com/hackingguy/morphe-patches/compare/v1.6.14...v1.6.15-dev.1) (2026-07-06)
+
+### 🐛 Bug Fixes
+
+* **mygate:** make ShowUpgradeDialogFingerprint parameter-agnostic for robust matching across versions ([a3d2775](https://github.com/hackingguy/morphe-patches/commit/a3d2775345b114829905395baf71fdb11afe41d0))
+
 ## [1.6.14](https://github.com/hackingguy/morphe-patches/compare/v1.6.13...v1.6.14) (2026-07-06)
 
 ### 🐛 Bug Fixes
